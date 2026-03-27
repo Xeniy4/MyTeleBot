@@ -82,5 +82,6 @@ def send_compliment(message: Message):
 
 
 
+
 bot.infinity_polling()  # запуск бота и прием сообщений
 
